@@ -51,7 +51,7 @@ public class Person {
 
 //	public static void main(String[] args) {
 //		Person random = new Person("dania");
-//		System.out.println(getName());
+//		System.out.println(getName()); mmm
 //	}
 	
 
