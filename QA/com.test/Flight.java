@@ -1,5 +1,3 @@
-package part8.classes;
-
 public class Flight {
 	int passengers;
 	int seates;
